@@ -1,0 +1,15 @@
+CompileFlags:
+  Add:
+    [
+      -Werror,
+      -Wall,
+      -Weffc++,
+      -Wextra,
+      -Wconversion,
+      -Wsign-conversion,
+      -std=c++23,
+    ]
+Diagnostics:
+  ClangTidy:
+    Add: modernize-*
+    Remove: modernize-use-trailing-return-type
