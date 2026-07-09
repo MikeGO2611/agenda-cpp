@@ -27,7 +27,7 @@ Este proyecto sólo tiene como objetivo mejorar mis capacidades en C++.
 
 ## 🎬 Uso <a name = "uso"></a>
 
-Existe el binario precompilado en TODO.
+Existe el binario precompilado en [releases](https://github.com/MikeGO2611/agenda-cpp/releases).
 
 En el caso de querer compilar el proyecto, clonar el repositorio y compilar el proyecto con un compilador de C++.
 
