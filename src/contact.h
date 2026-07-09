@@ -1,7 +1,6 @@
 #pragma once
 
 #include <ostream>
-#include <stacktrace>
 #include <string>
 #include <string_view>
 
