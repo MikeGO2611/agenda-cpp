@@ -3,7 +3,7 @@
 <div align="center">
 
 [![C++](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge)](#)
-[![C++](https://img.shields.io/badge/status-active-green?style=for-the-badge)](#)
+[![C++](https://img.shields.io/badge/status-finished-yellow?style=for-the-badge)](#)
 
 </div>
 
